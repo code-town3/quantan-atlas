@@ -1,21 +1,14 @@
-MIT License
 
-Copyright (c) 2026 ByteOmi
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## ✏️ Şimdi Ne Yapmalısın?
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **Yeni repo oluştur:** GitHub'da `quantan-atlas` adında yeni bir public repo oluştur.
+2. **Ayarları gir:** Yukarıdaki tablodaki Description, .gitignore (Node), MIT License seçeneklerini işaretle.
+3. **README'yi yapıştır:** Oluşturulan README.md dosyasını yukarıdaki metinle değiştir.
+4. **License'ı güncelle:** LICENSE dosyasındaki copyright sahibini `code-town3` olarak değiştir.
+5. **About kısmını doldur:** Sağ taraftaki About kısmına Website (`https://quantanatlas.com`) ve Topics etiketlerini ekle.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+---
+
+Bu işlemleri tamamladıktan sonra sıradaki repo (`datacognova.com`, `archovian.com`, `bilvian.com` veya `hexovian.com`) için benzer şekilde devam edebiliriz. Hangisiyle devam edelim? 🚀
